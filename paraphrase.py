@@ -4,7 +4,7 @@ import openai
 
 # use terminal arguments to get the path to the file to be translated
 # and the path to the file to be translated into
-KEY="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"
+KEY="CHANGE TO YOUR OWN KEY"
 
 def init_gpt():
     openai.api_key = KEY
