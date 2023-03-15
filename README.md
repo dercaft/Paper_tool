@@ -9,4 +9,4 @@ conda activate gui
 python ./strcmp.py
 ```
 运行截图
-![运行截图](shot.png "运行截图") <!-- 此路径表示图片和MD文件，处于同一目录 -->
+![运行截图](shoter.png "运行截图") <!-- 此路径表示图片和MD文件，处于同一目录 -->
